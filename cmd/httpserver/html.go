@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"io"
 
-	"shu.run/lu"
+	"go.shu.run/lu"
 )
 
 const html = `<!DOCTYPE html>

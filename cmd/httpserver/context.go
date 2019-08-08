@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"shu.run/lu"
+	"go.shu.run/lu"
 )
 
 var allowFmts = []string{"json", "xml", "html", "text", "txt"}

@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"shu.run/log"
+	"go.shu.run/log"
 
 	"gopkg.in/cheggaaa/pb.v1"
 )
