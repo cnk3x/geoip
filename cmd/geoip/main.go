@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"shu.run/geoip"
-	"shu.run/log"
+	"go.shu.run/geoip"
+	"go.shu.run/log"
 )
 
 func main() {

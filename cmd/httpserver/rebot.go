@@ -3,8 +3,8 @@ package main
 import (
 	"strings"
 
-	"shu.run/log"
-	"shu.run/lu"
+	"go.shu.run/log"
+	"go.shu.run/lu"
 )
 
 //NoRebot 过滤搜索引擎

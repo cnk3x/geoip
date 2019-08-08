@@ -7,10 +7,10 @@ import (
 	"runtime"
 	"strings"
 
-	"shu.run/log"
-	"shu.run/lu"
+	"go.shu.run/log"
+	"go.shu.run/lu"
 
-	"shu.run/geoip"
+	"go.shu.run/geoip"
 )
 
 var geo = geoip.New("geo_db")
